@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'stgenreg': Fit (fitting) general parametric survival models Use stgenreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rcsgen.ado
+f rcsgen.sthlp
+f rcsgen_example.ado
+f stgenreg.ado
+f stgenreg.sthlp
+f stgenreg_d0.ado
+f stgenreg_gaussquad.ado
+f stgenreg_postestimation.sthlp
+f stgenreg_pred.ado
