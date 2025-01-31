@@ -1,6 +1,8 @@
 # stgenreg
 Fit (fitting) general parametric survival models Use stgenreg With STATA 18
 
+https://www.youtube.com/watch?v=N83bks7Q6aE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
